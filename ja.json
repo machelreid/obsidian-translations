@@ -32,7 +32,7 @@
 			"option-vim-key-bindings-description": "Let you use Vim key bindings in the source editor."
 		},
 		"file": {
-			"name": "File",
+			"name": "ファイル",
 			"option-confirm-file-deletion": "Confirm file deletion",
 			"option-confirm-file-deletion-description": "Whether you want to get prompted to confirm file deletion.",
 			"option-delete-destination": "Deleted files",
@@ -76,7 +76,7 @@
 			"tooltip-customize-command": "Customize this command"
 		},
 		"about": {
-			"name": "About",
+			"name": "アカウント",
 			"label-license-key": "License key",
 			"license-key-placeholder": "Your license key...",
 			"label-enter-commercial-license": "Please enter your commercial license key:",
